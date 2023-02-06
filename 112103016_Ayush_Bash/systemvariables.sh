@@ -1,0 +1,10 @@
+echo $HOME
+echo $BASH
+echo $BASH_VERSION
+echo $LOGNAME
+echo $OSTYPE
+echo $PATH
+echo $PSI
+echo $PWD
+echo $SHELL
+echo $USERNAME
